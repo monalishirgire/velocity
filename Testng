@@ -1,0 +1,4 @@
+@Test 
+public void m1 (
+{
+Reporter.log("login successful",true) 
